@@ -111,8 +111,41 @@ I have worked on SaaS platforms, authentication infrastructure, mobile applicati
 <img src="https://img.shields.io/badge/Mobile_Applications-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cloud_Software-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI_Automation-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WebGL_%26_3D-111827?style=for-the-badge" />
 
 </p>
+
+---
+
+# 🌐 Open Source
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎛️ [nextjs-webgl-templates](https://github.com/somnathraz/nextjs-webgl-templates)
+
+13 Next.js + React Three Fiber templates: raymarched black holes, GPU fluid simulation, a million-agent slime mold, scroll-driven 3D product pages.
+
+`Next.js` `React Three Fiber` `GLSL` `MIT`
+
+[**Live demo →**](https://demo.somanathkhadanga.com)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🪤 [interview-traps](https://github.com/somnathraz/interview-traps)
+
+Backend interview traps you can run: the bug, the fix, and a test that proves it against real Postgres, with step-by-step replays.
+
+`Node.js` `PostgreSQL` `Testing`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
