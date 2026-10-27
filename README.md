@@ -140,7 +140,7 @@ I have worked on SaaS platforms, authentication infrastructure, mobile applicati
 
 Backend interview traps you can run: the bug, the fix, and a test that proves it against real Postgres, with step-by-step replays.
 
-`Node.js` `PostgreSQL` `Testing`
+`TypeScript` `PostgreSQL` `Testing`
 
 </td>
 
