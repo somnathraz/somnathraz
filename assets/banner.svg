@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Somnath Khadanga, full-stack product engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0d12"/>
+      <stop offset="1" stop-color="#11131c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7c5cff" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#3b82f6" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+  <g>
+    <rect width="1280" height="340" rx="20" fill="url(#bg)"/>
+    <rect width="1280" height="340" rx="20" fill="url(#grid)"/>
+    <circle cx="1040" cy="170" r="260" fill="url(#glow)"/>
+    <g fill="none" stroke="url(#ring)" stroke-linecap="round">
+      <ellipse cx="1040" cy="170" rx="190" ry="62" stroke-width="1.2" stroke-opacity="0.35" transform="rotate(-18 1040 170)"/>
+      <ellipse cx="1040" cy="170" rx="150" ry="48" stroke-width="1.5" stroke-opacity="0.55" transform="rotate(-18 1040 170)"/>
+      <ellipse cx="1040" cy="170" rx="110" ry="34" stroke-width="2" stroke-opacity="0.85" transform="rotate(-18 1040 170)"/>
+      <ellipse cx="1040" cy="170" rx="226" ry="76" stroke-width="1" stroke-opacity="0.18" transform="rotate(-18 1040 170)"/>
+    </g>
+    <circle cx="1040" cy="170" r="34" fill="#05060a" stroke="url(#ring)" stroke-width="1.5"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1279" height="339" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <g font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,monospace" font-size="14" fill="#8b93a7" letter-spacing="2.4">
+    <text x="64" y="72">FULL-STACK PRODUCT ENGINEER</text>
+  </g>
+  <g font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif">
+    <text x="62" y="140" font-size="58" font-weight="700" fill="#f5f6fa" letter-spacing="-1.5">Somnath Khadanga</text>
+    <text x="64" y="184" font-size="21" fill="#aab1c5">I design and ship SaaS platforms, backends, mobile apps</text>
+    <text x="64" y="212" font-size="21" fill="#aab1c5">and real-time WebGL experiences, from architecture to production.</text>
+  </g>
+
+  <g font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif">
+    <g transform="translate(64 262)">
+      <text font-size="28" font-weight="700" fill="#f5f6fa">4+</text>
+      <text y="22" font-size="13" fill="#8b93a7">years shipping production</text>
+    </g>
+    <g transform="translate(272 262)">
+      <text font-size="28" font-weight="700" fill="#f5f6fa">3</text>
+      <text y="22" font-size="13" fill="#8b93a7">flagship products built end to end</text>
+    </g>
+    <g transform="translate(528 262)">
+      <text font-size="28" font-weight="700" fill="#f5f6fa">13</text>
+      <text y="22" font-size="13" fill="#8b93a7">open-source WebGL templates</text>
+    </g>
+  </g>
+</svg>
